@@ -6,4 +6,4 @@ metadata:
 spec:
   host: demo1.hit.local
   prefix: /
-  service: http-test-svc.myapp2:80
+  service: http-test-svc.myapp1:80
